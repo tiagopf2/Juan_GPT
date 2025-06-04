@@ -60,7 +60,7 @@ Except nothing worked.
 
 The yolov3.cfg file gave me constant errors. The yolov3.weights file refused to load. OpenCV threw error messages that looked like secret codes from another dimension. At one point it just stopped responding altogether, like even the AI was fed up with me.
 
-I went down every rabbit hole imaginable. TLDR — I had to use what I now call the Bulletproof Fix. I re-downloaded everything, edited layers, fixed dimensions, patched missing classes, and basically duct-taped the whole thing together until it finally ran.
+I went down every rabbit hole imaginable. TLDR, I had to use what I now call the Bulletproof Fix. I re-downloaded everything, edited layers, fixed dimensions, patched missing classes, and basically duct-taped the whole thing together until it finally ran.
 
 And somehow, it did. JuanGPT started seeing things. It would look at a water bottle and say “That’s a dog,” but still. It was seeing.
 
