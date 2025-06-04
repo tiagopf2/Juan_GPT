@@ -36,7 +36,7 @@ I wanted to say something like “Tomorrow I have to go to the gym” and not ha
 
 That changed everything. JuanGPT wasn’t just reacting. It was starting to know me.
 
-JUANGPT ON MY PHONE
+# JUANGPT ON MY PHONE
 
 Once JuanGPT was running smoothly on my computer, I wanted to carry it around. The plan was to run it on my old Android phone using Termux, which basically turns your phone into a little Linux machine. It sounded easy. It wasn’t.
 
