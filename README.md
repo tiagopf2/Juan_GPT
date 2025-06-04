@@ -45,3 +45,23 @@ At the beginning, I couldn’t even talk to it. I had to type every message like
 After hours of searching and trying weird things, I finally found a way. Termux has a plugin called termux-speech-to-text. It’s not perfect, but it works. I integrated it into the code, and just like that, I could speak and have the message transcribed directly into the terminal. It wasn’t smooth at first, but it worked well enough to feel like real progress.
 
 And after all the frustration, it actually felt kind of amazing.
+
+# Teaching It to See
+
+How hard can it be to teach an AI how to see, right? Just plug in a camera and boom, it understands the world. At least, that’s what I thought.
+
+Spoiler: it was a struggle. A full-on battle.
+
+At this point, JuanGPT could talk and listen, but it was still completely blind. If I wanted to give it any real personality or independence, it had to see. Not in a metaphorical way. I mean literally look around and recognize objects like a real assistant. So I started exploring computer vision.
+
+I began with OpenCV, just to get a camera feed going. That part worked. Kind of. But then I moved on to object detection using YOLO. It’s one of the most popular real-time detection models. Everyone online made it sound easy. Download a config file, grab some weights, plug it into Python. Done.
+
+Except nothing worked.
+
+The yolov3.cfg file gave me constant errors. The yolov3.weights file refused to load. OpenCV threw error messages that looked like secret codes from another dimension. At one point it just stopped responding altogether, like even the AI was fed up with me.
+
+I went down every rabbit hole imaginable. TLDR — I had to use what I now call the Bulletproof Fix. I re-downloaded everything, edited layers, fixed dimensions, patched missing classes, and basically duct-taped the whole thing together until it finally ran.
+
+And somehow, it did. JuanGPT started seeing things. It would look at a water bottle and say “That’s a dog,” but still. It was seeing.
+
+It wasn’t perfect, but it didn’t matter. Now it wasn’t just a voice in a terminal. It was a voice with eyes. Confused eyes, sure. But eyes.
