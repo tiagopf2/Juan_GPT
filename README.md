@@ -62,6 +62,6 @@ The yolov3.cfg file gave me constant errors. The yolov3.weights file refused to 
 
 I went down every rabbit hole imaginable. TLDR, I had to use what I now call the Bulletproof Fix. I re-downloaded everything, edited layers, fixed dimensions, patched missing classes, and basically duct-taped the whole thing together until it finally ran.
 
-And somehow, it did. JuanGPT started seeing things. It would look at a water bottle and say “That’s a dog,” but still. It was seeing.
+And honestly, the best part? The very first thing JuanGPT saw — was me. Screaming at the screen “It’s working, it’s working.” Probably looking like a crazy person. But it saw me. And it responded.
 
-It wasn’t perfect, but it didn’t matter. Now it wasn’t just a voice in a terminal. It was a voice with eyes. Confused eyes, sure. But eyes.
+Sure, it confused my face with a microwave later on. But I didn’t care. JuanGPT had eyes. And for the first time, it felt real.
