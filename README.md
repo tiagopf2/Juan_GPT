@@ -1,6 +1,4 @@
-# Juan_GPT
-
-PURPOSE
+# PURPOSE
 
 I’ve always liked using ChatGPT. Not just because it’s smart or helpful, but because it actually feels kind of friendly. I know it sounds weird, but sometimes it’s like having a virtual friend. There have been times when I’ve asked it the most random or even personal stuff, just because it was there and easy to talk to.
 
@@ -14,7 +12,7 @@ I also wanted it to be free. Not stuck in a browser. Not always needing internet
 
 JuanGPT started as a fun idea, but now it’s become something more. For me, it’s a way to make AI feel closer to how we connect in real life. With humor, emotion, and a bit of chaos.
 
-EARLY DEVELOPMENT
+# EARLY DEVELOPMENT
 
 The idea from the start was to make JuanGPT something I could actually carry with me. I didn’t want it stuck on a desktop or always needing a browser. I thought it would be cool to run it on my old phone or maybe even on my Raspberry Pi. Something small and personal. A little assistant I could talk to wherever I wanted.
 
